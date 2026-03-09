@@ -21,4 +21,4 @@ This project simulates insurance policy sales and claims data and performs analy
 
 ## Author
 Aditya Vashishtha
-B.Tech CSE
+(B.Tech CSE)
